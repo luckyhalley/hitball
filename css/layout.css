@@ -1,0 +1,19 @@
+@charset "utf-8";
+/*author : halley
+  careate date : 2012-7
+*/
+/*global*/
+body, table, a, input, textarea, select, form, div, img, dl, dt, dd, h1, h2, h3, h4, p, li{color:#666;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;border:0pt none;margin:0px;padding:0px; text-align:center;}
+ul, ol{list-style:none;margin:0px;padding:0px;}
+img {border:0;}
+a:link, a:visited, a:active{text-decoration:none;}
+a:hover{text-decoration:none;}
+a:focus,
+input,
+input:focus,
+input:active{outline: none;}
+
+/*struts*/
+#halleysCanvasWrapper{margin:0 auto; width:1024px; height:646px; position: relative;}
+canvas{margin:0; auto;  border:1px solid #CCC; background-color:#CCF;}
+canvas:hover{ cursor:crosshair;}
